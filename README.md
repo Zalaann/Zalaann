@@ -60,8 +60,6 @@
 
   <br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Thanks%20for%20dropping%20by!%20Let's%20create%20something%20amazing%20together!&author=Ibrahim%20Tariq" width="70%"/>
-  
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
