@@ -18,10 +18,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
 <br/>
 
 ### 🚀 About Me
@@ -58,11 +54,6 @@ class Ibrahim:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
 </div>
 
 ### 🌟 Featured Projects
