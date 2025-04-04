@@ -1,17 +1,25 @@
 <!-- Stunning Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ibrahim%20Tariq&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&section=header&text=Ibrahim%20Tariq&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Crafting%20Digital%20Reality&descSize=25&descAlignY=55"/>
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibrahim+Tariq!;+Welcome+to+my+Profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibrahim+Tariq!;+Welcome+to+my+Profile!;&color=00FFFF" />
 </h3>
 
 <br/>
 
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -44,27 +52,27 @@ class Ibrahim:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zalaann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalaann&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zalaann&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" alt="Ibrahim's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalaann&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak Stats"/>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&radius=8" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&radius=8" width="95%"/>
 </div>
 
 ### 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Zalaann/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
   </a>
   <a href="https://github.com/Zalaann/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
   </a>
 </div>
 
@@ -72,21 +80,21 @@ class Ibrahim:
 
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=black" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zalaann&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Zalaann&style=for-the-badge&color=FF00FF" alt="Profile Views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
 
 <!-- Snake Animation Setup Instructions -->
 <!--
