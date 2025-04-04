@@ -9,13 +9,17 @@
 
 <br/>
 
-<!-- Animated Banner -->
+<!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github.com/Zalaann/Zalaann/blob/main/assets/grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zalaann/Zalaann/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -48,25 +52,27 @@ class Ibrahim:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-zalaann.vercel.app/api?username=Zalaann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" />
-  <img src="https://github-readme-stats-zalaann.vercel.app/api/top-langs/?username=Zalaann&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zalaann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalaann&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zalaann&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
+</div>
 
 ### 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Zalaann/project1">
-    <img src="https://github-readme-stats-zalaann.vercel.app/api/pin/?username=Zalaann&repo=project1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Zalaann/project2">
-    <img src="https://github-readme-stats-zalaann.vercel.app/api/pin/?username=Zalaann&repo=project2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zalaann&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -90,4 +96,37 @@ class Ibrahim:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
+<!-- Snake Animation Setup Instructions -->
+<!--
+To enable the snake animation:
+1. Go to your GitHub profile
+2. Create a new repository with the same name as your GitHub username
+3. Create .github/workflows/snake.yml with the following content:
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Zalaann
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
