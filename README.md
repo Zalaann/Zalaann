@@ -1,8 +1,4 @@
 <!-- Custom Style -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
@@ -10,10 +6,6 @@
 <!-- Matrix Rain Effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-  
-  <a href="https://github.com/Zalaann">
-    <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=32&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=150&lines=I+B+R+A+H+I+M;T+A+R+I+Q;MATRIX+INITIALIZED" alt="Matrix Name"/>
-  </a>
   
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
   
