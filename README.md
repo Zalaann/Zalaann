@@ -3,14 +3,10 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Zalaann">
-    <img src="https://raw.githubusercontent.com/gist/Zalaann/YOUR_GIST_ID/raw/hologram.svg" width="100%" alt="Ibrahim Tariq" />
-  </a>
-</div>
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
+
 <!-- Neon Badges -->
 <div align="center">
   <a href="https://github.com/Zalaann">
