@@ -7,6 +7,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
 
+### 🚀 About Me
+
+```python
+class Ibrahim:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.location = "UK"
+        self.code = ["Python", "JavaScript", "TypeScript", "React"]
+        self.interests = ["Web Development", "AI/ML", "Open Source"]
+        self.current_focus = "Building innovative web applications"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+```
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -17,6 +31,17 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak Stats"/>
 </div>
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,tailwind,mongodb,postgres,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,firebase,vercel" />
+</div>
+
+<br/>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -36,42 +61,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
 </div>
 
-<!-- Glitch Effect Separator -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
-</div>
-
 <!-- Profile Views Counter with Custom Style -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Zalaann/count.svg" alt="Visitor Count" style="background-color: #0D1117; padding: 10px; border-radius: 5px;"/>
 </div>
 
-<br/>
-
-### 🚀 About Me
-
-```python
-class Ibrahim:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.location = "UK"
-        self.code = ["Python", "JavaScript", "TypeScript", "React"]
-        self.interests = ["Web Development", "AI/ML", "Open Source"]
-        self.current_focus = "Building innovative web applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing together!")
-```
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,tailwind,mongodb,postgres,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,firebase,vercel" />
-</div>
-
-<br/>
 
 ### 🌟 Featured Projects
 
