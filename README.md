@@ -1,6 +1,6 @@
 <!-- Custom Style -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descSize=30&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
 
 <div align="center">
