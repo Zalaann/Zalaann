@@ -7,6 +7,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
 
+<!-- Matrix Rain Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
+  
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Zalaann/count.svg" alt="Visitor Count" style="background-color: #0D1117; padding: 10px; border-radius: 5px;"/>
+</div>
+
+<br/>
+
 ### 🚀 About Me
 
 ```python
@@ -21,6 +37,7 @@ class Ibrahim:
     def say_hi(self):
         print("Thanks for dropping by! Let's create something amazing together!")
 ```
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -31,7 +48,6 @@ class Ibrahim:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak Stats"/>
 </div>
-<br/>
 
 ### 🛠️ Tech Stack
 
@@ -46,19 +62,6 @@ class Ibrahim:
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&radius=8" width="95%"/>
-</div>
-
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-  
-  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-</div>
-<!-- Profile Views Counter with Custom Style -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zalaann/count.svg" alt="Visitor Count" style="background-color: #0D1117; padding: 10px; border-radius: 5px;"/>
 </div>
 
 ### 🌟 Featured Projects
@@ -92,41 +95,8 @@ class Ibrahim:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
 
-<!-- Snake Animation Setup Instructions -->
 <!--
-To enable the snake animation:
-1. Go to your GitHub profile
-2. Create a new repository with the same name as your GitHub username
-3. Create .github/workflows/snake.yml with the following content:
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Zalaann
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Snake Animation Setup Instructions (hidden)
+[Your existing snake animation instructions here]
 -->
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 
