@@ -56,16 +56,10 @@ class Ibrahim:
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
-<!-- Neon Stats Bar -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
-</div>
-
 <!-- Profile Views Counter with Custom Style -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Zalaann/count.svg" alt="Visitor Count" style="background-color: #0D1117; padding: 10px; border-radius: 5px;"/>
 </div>
-
 
 ### 🌟 Featured Projects
 
