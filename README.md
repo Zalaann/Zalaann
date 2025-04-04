@@ -12,16 +12,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  About Me 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-</h2>
+<div align="center" style="background: transparent;">
+  <h2 style="margin-bottom: 0; background: transparent;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+    About Me 
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  </h2>
 
-<div align="center" style="margin-bottom: -16px;">
-  <table style="border: none; border-collapse: collapse; background: transparent; margin-bottom: 0;">
+  <table style="border: none; border-collapse: collapse; background: transparent; margin: 0;">
     <tr style="border: none; background: transparent;">
-      <td style="border: none; background: transparent;">
+      <td style="border: none; background: transparent; padding: 10px;">
         <h3 align="center">🎯 Current Focus</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Web_Development-FF00FF?style=for-the-badge&logoColor=white" />
@@ -29,7 +29,7 @@
           <img src="https://img.shields.io/badge/Open_Source-FF00FF?style=for-the-badge&logoColor=white" />
         </div>
       </td>
-      <td style="border: none; background: transparent;">
+      <td style="border: none; background: transparent; padding: 10px;">
         <h3 align="center">💻 Code Arsenal</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
@@ -40,13 +40,13 @@
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
-      <td style="border: none; background: transparent;">
+      <td style="border: none; background: transparent; padding: 10px;">
         <h3 align="center">🌍 Location</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/United_Kingdom-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" />
         </div>
       </td>
-      <td style="border: none; background: transparent;">
+      <td style="border: none; background: transparent; padding: 10px;">
         <h3 align="center">🚀 Role</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Full_Stack-00FFFF?style=for-the-badge&logoColor=black" />
@@ -57,7 +57,7 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 0;">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
