@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glitch {
+      0% { transform: translate(0); filter: hue-rotate(0deg); }
+      20% { transform: translate(-2px, 2px); filter: hue-rotate(90deg); }
+      40% { transform: translate(2px, -2px); filter: hue-rotate(180deg); }
+      60% { transform: translate(-2px); filter: hue-rotate(270deg); }
+      80% { transform: translate(2px); filter: hue-rotate(360deg); }
+      100% { transform: translate(0); filter: hue-rotate(0deg); }
+    }
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+    .hologram {
+      animation: glitch 2s infinite, float 3s ease-in-out infinite;
+    }
+    .glow {
+      filter: drop-shadow(0 0 5px #00FFFF) drop-shadow(0 0 10px #FF00FF);
+    }
+  </style>
+  
+  <defs>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF00FF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1" />
+      <animate attributeName="x1" from="0%" to="100%" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="100%" to="200%" dur="3s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+
+  <g class="hologram glow">
+    <text x="50%" y="50%" text-anchor="middle" font-family="monospace" font-size="48" fill="url(#neonGradient)">
+      IBRAHIM TARIQ
+    </text>
+    <text x="50%" y="75%" text-anchor="middle" font-family="monospace" font-size="24" fill="url(#neonGradient)">
+      CYBERPUNK DEVELOPER
+    </text>
+  </g>
+</svg> 

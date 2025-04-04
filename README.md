@@ -1,17 +1,55 @@
-<!-- Stunning Banner -->
+<!-- Custom Style -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&section=header&text=Ibrahim%20Tariq&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Crafting%20Digital%20Reality&descSize=25&descAlignY=55"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ibrahim+Tariq!;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <a href="https://github.com/Zalaann">
+    <img src="https://raw.githubusercontent.com/gist/Zalaann/YOUR_GIST_ID/raw/hologram.svg" width="100%" alt="Ibrahim Tariq" />
   </a>
 </div>
 
-<br/>
+<!-- Matrix Rain Effect -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <a href="https://github.com/Zalaann">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&text=IBRAHIM%20TARIQ&desc=FULL%20STACK%20DEVELOPER&animation=fadeIn&fontColor=FFFFFF&fontSize=60&fontAlignY=35&descSize=20&descAlignY=55&rotate=0&stroke=00FFFF&strokeWidth=1"/>
+  </a>
+</div>
+
+<!-- Animated Typing -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Crafting+Digital+Reality;Building+the+Future+%7C+One+Line+at+a+Time;Cyberpunk+Developer+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Neon Stats Bar -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
+</div>
+
+<!-- Animated Badges -->
+<div align="center">
+  <a href="https://github.com/Zalaann?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FF00FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+  <a href="https://github.com/Zalaann?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Stars-00FFFF?style=for-the-badge&logoColor=black&logo=star"/>
+  </a>
+  <a href="https://github.com/Zalaann">
+    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Profile-FF00FF?style=for-the-badge&logoColor=white&logo=person"/>
+  </a>
+</div>
+
+<!-- Glitch Effect Separator -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
+</div>
+
+<!-- Profile Views Counter with Custom Style -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Zalaann/count.svg" alt="Visitor Count" style="background-color: #0D1117; padding: 10px; border-radius: 5px;"/>
 </div>
 
 <br/>
