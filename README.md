@@ -19,11 +19,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-  
-  <table>
-    <tr>
-      <td>
+  <table style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <h3 align="center">🎯 Current Focus</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Web_Development-FF00FF?style=for-the-badge&logoColor=white" />
@@ -31,7 +29,7 @@
           <img src="https://img.shields.io/badge/Open_Source-FF00FF?style=for-the-badge&logoColor=white" />
         </div>
       </td>
-      <td>
+      <td style="border: none;">
         <h3 align="center">💻 Code Arsenal</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
@@ -41,14 +39,14 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr style="border: none;">
+      <td style="border: none;">
         <h3 align="center">🌍 Location</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/United_Kingdom-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" />
         </div>
       </td>
-      <td>
+      <td style="border: none;">
         <h3 align="center">🚀 Role</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Full_Stack-00FFFF?style=for-the-badge&logoColor=black" />
@@ -57,9 +55,9 @@
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
-  
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
