@@ -11,10 +11,11 @@
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <a href="https://github.com/Zalaann">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&text=IBRAHIM%20TARIQ&desc=FULL%20STACK%20DEVELOPER&animation=fadeIn&fontColor=FFFFFF&fontSize=60&fontAlignY=35&descSize=20&descAlignY=55&rotate=0&stroke=00FFFF&strokeWidth=1"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
+  
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
@@ -177,6 +178,7 @@ jobs:
   </a>
 </div>
 
+<!-- Animated Text -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+Cyberpunk+Code+Haven+%F0%9F%92%BB;Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%8C%9F" alt="Typing SVG" />
   <br/>
@@ -189,5 +191,5 @@ jobs:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zalaann&theme=radical&utcOffset=8" width="49%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 
