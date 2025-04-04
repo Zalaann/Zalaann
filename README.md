@@ -1,17 +1,14 @@
 <!-- Custom Style -->
-<h1 align="center">
+<h1 align="center" style="margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Dreams%20Into%20Reality&descSize=30&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
-
-<div align="center">
+<div align="center" style="margin-top: -20px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+Cyberpunk+Code+Haven+%F0%9F%92%BB;Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
-
-<!-- About Me -->
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
+<!-- About Me -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
   About Me 
@@ -19,48 +16,25 @@
 </h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-  
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">🎯 Current Focus</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Web_Development-FF00FF?style=for-the-badge&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI/ML-00FFFF?style=for-the-badge&logoColor=black" />
-          <img src="https://img.shields.io/badge/Open_Source-FF00FF?style=for-the-badge&logoColor=white" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">💻 Code Arsenal</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-          <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
-          <img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🌍 Location</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/United_Kingdom-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">🚀 Role</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Full_Stack-00FFFF?style=for-the-badge&logoColor=black" />
-          <img src="https://img.shields.io/badge/Developer-FF00FF?style=for-the-badge&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Web_Development-FF00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open_Source-FF00FF?style=for-the-badge&logoColor=white" />
+</div>
 
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/United_Kingdom-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full_Stack-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Developer-FF00FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 📊 GitHub Stats
