@@ -23,12 +23,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&radius=8" width="95%"/>
 </div>
 
-<!-- Animated Stats -->
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Zalaann&cc=0D1117&tc=FF00FF&ic=00FFFF&bc=0D1117" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zalaann&theme=radical&utcOffset=8" width="49%" />
-</div>
-
 <!-- Matrix Rain Effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
@@ -37,30 +31,9 @@
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
-
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Crafting+Digital+Reality;Building+the+Future+%7C+One+Line+at+a+Time;Cyberpunk+Developer+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</div>
-
 <!-- Neon Stats Bar -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2&section=header" width="100%"/>
-</div>
-
-<!-- Animated Badges -->
-<div align="center">
-  <a href="https://github.com/Zalaann?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FF00FF?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-  <a href="https://github.com/Zalaann?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Stars-00FFFF?style=for-the-badge&logoColor=black&logo=star"/>
-  </a>
-  <a href="https://github.com/Zalaann">
-    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Profile-FF00FF?style=for-the-badge&logoColor=white&logo=person"/>
-  </a>
 </div>
 
 <!-- Glitch Effect Separator -->
