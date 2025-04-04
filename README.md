@@ -21,7 +21,7 @@
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Crafting+Digital+Reality;Building+the+Future+%7C+One+Line+at+a+Time;Cyberpunk+Developer+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Crafting+Digital+Reality;Building+the+Future+%7C+One+Line+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
