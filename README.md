@@ -7,24 +7,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
 
-<!-- Neon Badges -->
+### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/Zalaann">
-    <img src="https://img.shields.io/badge/CYBERPUNK-FF00FF?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3bC0xMC01ek0xMiA0LjR2MTUuMkw0IDE1VjlsMTAtNHoiLz48L3N2Zz4=" />
-  </a>
-  <a href="https://github.com/Zalaann?tab=repositories">
-    <img src="https://img.shields.io/badge/DEVELOPER-00FFFF?style=for-the-badge&logoColor=black" />
-  </a>
-  <a href="https://github.com/Zalaann?tab=stars">
-    <img src="https://img.shields.io/badge/FULL%20STACK-FF00FF?style=for-the-badge&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zalaann&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" alt="Ibrahim's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalaann&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </div>
 
-<!-- Animated Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+Cyberpunk+Code+Haven+%F0%9F%92%BB;Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%8C%9F" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FF00FF&center=true&vCenter=true&width=940&lines=The+Future+is+Built+in+Code+%F0%9F%92%AB;Creating+Digital+Magic+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak Stats"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&radius=8" width="95%"/>
 </div>
 
 <!-- Animated Stats -->
@@ -103,22 +99,6 @@ class Ibrahim:
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zalaann&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" alt="Ibrahim's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalaann&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zalaann&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak Stats"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&radius=8" width="95%"/>
-</div>
 
 ### 🌟 Featured Projects
 
