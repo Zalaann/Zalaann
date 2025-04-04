@@ -3,13 +3,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&section=header&text=Ibrahim%20Tariq&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Crafting%20Digital%20Reality&descSize=25&descAlignY=55"/>
 </div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibrahim+Tariq!;+Welcome+to+my+Profile!;&color=00FFFF" />
-</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ibrahim+Tariq!;Welcome+to+my+Profile!" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
-
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zalaann&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
