@@ -1,67 +1,64 @@
 <!-- Custom Style -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=300&section=header&text=IBRAHIM%20TARIQ&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Reality%20in%20Neon&descAlignY=51&descAlign=50" width="100%"/>
 </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+Cyberpunk+Code+Haven+%F0%9F%92%BB;Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<!-- About Me -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  About Me 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  <span style="color: #00FFFF">⟨⟨</span> About Me <span style="color: #00FFFF">⟩⟩</span>
 </h2>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
-  
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">🎯 Current Focus</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Web_Development-FF00FF?style=for-the-badge&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI/ML-00FFFF?style=for-the-badge&logoColor=black" />
-          <img src="https://img.shields.io/badge/Open_Source-FF00FF?style=for-the-badge&logoColor=white" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">💻 Code Arsenal</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-          <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
-          <img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🌍 Location</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/United_Kingdom-FF00FF?style=for-the-badge&logo=google-maps&logoColor=white" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">🚀 Role</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Full_Stack-00FFFF?style=for-the-badge&logoColor=black" />
-          <img src="https://img.shields.io/badge/Developer-FF00FF?style=for-the-badge&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
+</div>
 
-  <br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Thanks%20for%20dropping%20by!%20Let's%20create%20something%20amazing%20together!&author=Ibrahim%20Tariq" width="70%"/>
-  
+<br/>
+
+<div align="center">
+  <h3>🎯 Current Focus</h3>
+  <div style="margin: 15px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-WEB%20DEVELOPMENT-FF00FF?style=for-the-badge&logoColor=white&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-AI/ML-00FFFF?style=for-the-badge&logoColor=black&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-OPEN%20SOURCE-FF00FF?style=for-the-badge&logoColor=white&background=000000" />
+  </div>
+
+  <h3>💻 Code Arsenal</h3>
+  <div style="margin: 15px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-PYTHON-00FFFF?style=for-the-badge&logo=python&logoColor=black&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-FF00FF?style=for-the-badge&logo=javascript&logoColor=white&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-TYPESCRIPT-00FFFF?style=for-the-badge&logo=typescript&logoColor=black&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-REACT-FF00FF?style=for-the-badge&logo=react&logoColor=white&background=000000" />
+  </div>
+
+  <h3>🌍 Location</h3>
+  <div style="margin: 15px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-UNITED%20KINGDOM-FF00FF?style=for-the-badge&logoColor=white&background=000000" />
+  </div>
+
+  <h3>🚀 Role</h3>
+  <div style="margin: 15px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-FULL%20STACK-00FFFF?style=for-the-badge&logoColor=black&background=000000" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-DEVELOPER-FF00FF?style=for-the-badge&logoColor=white&background=000000" />
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="color: #00FFFF; font-size: 20px; font-style: italic;">
+    "Thanks for dropping by! Let's create something amazing together!"
+  </p>
+  <p style="color: #FF00FF; font-size: 16px;">- Ibrahim Tariq</p>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FF00FF&height=2" width="100%"/>
 </div>
 
