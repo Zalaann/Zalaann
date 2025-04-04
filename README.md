@@ -54,7 +54,7 @@ class Ibrahim:
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zalaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&radius=8" width="95%"/>
 </div>
 
 ### 🌟 Featured Projects
